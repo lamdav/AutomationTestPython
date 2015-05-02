@@ -5,6 +5,6 @@ python:
 install:
   - pip install pep8 --use-mirrors
 before_script:
-  - "pep8 --exclude=migrations --show-source --show-pep8 --ignore=E501,E225,E302,E265,W292,W293 src"
+  - "pep8 --exclude=migrations --show-source --show-pep8 --ignore=E501,E225,E302,E265,W292,W293,W291, src"
 # command to run tests
 script: python src/HelloWorldTest.py

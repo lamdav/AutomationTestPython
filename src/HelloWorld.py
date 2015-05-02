@@ -66,7 +66,7 @@ def summation(listOfNums):
     Preconditions:
         :type listOfNums: list
     """
-    total = 0;
+    total = 0
     for k in range(0, len(listOfNums)):
         total = total + listOfNums[k]
     return total
