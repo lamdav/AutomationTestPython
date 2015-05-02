@@ -5,7 +5,7 @@ Created on May 2, 2015
 '''
 import unittest
 import random
-import main.HelloWorld as hw
+import HelloWorld as hw
 
 class Test(unittest.TestCase):
 
