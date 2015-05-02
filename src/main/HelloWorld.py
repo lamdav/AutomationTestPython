@@ -10,7 +10,7 @@ def main():
     """
     Test your functions here
     """
-    print("\t\tExpected\tActual")
+    print("Function\tExpected\tActual")
     print("Hello World:\t{0}\t{1}".format("Hello World", helloWorld()))
     print("Sum:\t\t{0}\t\t{1}".format(5, sum2(2, 3)))
     print("Distance:\t{0}\t\t{1}".format(5, distance(1, 1, 5, 5)))
