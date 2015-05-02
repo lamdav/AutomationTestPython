@@ -4,4 +4,4 @@ python:
 # command to install dependencies
 
 # command to run tests
-script: python src/test/HelloWorldTest.py
+script: python test/HelloWorldTest.py
