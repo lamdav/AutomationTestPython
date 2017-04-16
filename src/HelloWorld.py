@@ -2,7 +2,7 @@
 Testing Automation for Python.
 
 Created on May 2, 2015.
-Written by: lamd.
+Written by: testingRoseProject.
 """
 import math
 
